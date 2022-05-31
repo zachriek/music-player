@@ -22,34 +22,16 @@ let updateTimer;
 
 const music_list = [
     {
+        img: 'images/happiness.jpg',
+        name: 'Happiness',
+        artist: 'Rex Orange County',
+        music: 'music/happiness.mp3',
+    },
+    {
         img: 'images/lovely.png',
         name: 'Lovely',
         artist: 'Billie Eilish, Khalid',
         music: 'music/lovely.mp3',
-    },
-    {
-        img: 'images/stay.png',
-        name: 'Stay',
-        artist: 'The Kid LAROI, Justin Bieber',
-        music: 'music/stay.mp3',
-    },
-    {
-        img: 'images/lightswitch.jpg',
-        name: 'Light Switch',
-        artist: 'Charlie Puth',
-        music: 'music/lightswitch.mp3',
-    },
-    {
-        img: 'images/myheart.jpg',
-        name: 'My Heart',
-        artist: 'Acha Septriasa, Irwansyah',
-        music: 'music/myheart.mp3',
-    },
-    {
-        img: 'images/myheart.jpg',
-        name: 'Sampai Menutup Mata',
-        artist: 'Acha Septriasa',
-        music: 'music/sampaimenutupmata.mp3',
     },
 ];
 
